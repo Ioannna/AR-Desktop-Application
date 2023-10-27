@@ -14,4 +14,5 @@ of the 3D model of the motherboard by tracking the users head position and rende
 scenes according to the using perspective. 
 
 
-![20230509_153001](https://github.com/Ioannna/AR-Desktop-Application/assets/67058868/c178e58e-01f3-46e9-9284-5a2098fbfd23)
+![Icon](https://github.com/Ioannna/AR-Desktop-Application/assets/67058868/2853db14-a67c-4e3e-880e-c2c9f04e6660)
+![20230509_153235](https://github.com/Ioannna/AR-Desktop-Application/assets/67058868/38bb7aa4-41f9-4e0c-bc57-80fe98103b53)
